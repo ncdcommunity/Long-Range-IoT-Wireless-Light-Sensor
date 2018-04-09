@@ -1,6 +1,6 @@
 # Long-Range-IoT-Wireless-Light-Sensor
 Industrial Wireless Light Sensor With 2 Mile Range
-Long range wireless IoT Light sensor can be found over here https://store.ncd.io/product/iot-long-range-wireless-one-channel-counter-transmitter/
+Long range wireless IoT Light sensor can be found over here https://store.ncd.io/iot-long-range-wireless-light-sensor/
 
 https://ncd.io/long-range-iot-wireless-light-sensor-getting-started/ Labview Driver for ncd.io wireless Light sensor
 
